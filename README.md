@@ -1,3 +1,6 @@
+![python_shutterstock_Funtap](https://github.com/AkashSingh1141144/Learning_Python/assets/147084128/e190dc41-ca13-4f7b-93e4-7b4d410f0821)
+
+
 what is python
 
 Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
