@@ -1,4 +1,4 @@
-![Screenshot 2024-06-08 085804](https://github.com/AkashSingh1141144/Learning_Python/assets/147084128/d7127e82-69d3-43c9-ad03-cb71a1c4b669)
+![pexels-hiteshchoudhary-3577561](https://github.com/AkashSingh1141144/Learning_Python/assets/147084128/a0779fa6-58c5-4d90-9494-735835bd5e59)
 
 
 
